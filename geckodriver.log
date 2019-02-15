@@ -1,0 +1,40 @@
+1550199185705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6kTCkevqW3S3"
+1550199186582	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1550199186582	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1550199186583	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1550199186595	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1550199186595	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1550199186596	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1550199186613	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1550199186614	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1550199186614	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1550199186625	addons.xpi-utils	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1550199186626	addons.xpi-utils	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1550199186626	addons.xpi-utils	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1550199186833	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1550199186835	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1550199186836	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1550199186836	addons.xpi-utils	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1550199186836	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1550199186836	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1550199186836	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1550199186836	addons.xpi-utils	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1550199186837	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1550199186837	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1550199186837	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1550199186837	addons.xpi-utils	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1550199186838	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1550199186838	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1550199186838	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1550199186838	addons.xpi-utils	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1550199186839	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1550199186839	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1550199186839	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1550199186839	addons.xpi-utils	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1550199186856	addons.xpi-utils	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1550199186856	addons.xpi-utils	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1550199186856	addons.xpi-utils	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1550199186856	addons.xpi-utils	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1550199189540	Marionette	INFO	Listening on port 38911
+1550199189651	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
